@@ -12,12 +12,13 @@
 		"raytraced" 
 	],
 	"subpacks": [
-		{ "folder_name": "cloudy_evening_sky", "name": "§r§7§lCloudy Evening Sky §8(4K)§r", "memory_tier": 1 },
-		{ "folder_name": "black_sky", "name": "§r§7§lBlack Evening Sky §8(4K)§r", "memory_tier": 0 },
-		{ "folder_name": "evening_sky", "name": "§r§7§lEvening Sky §8(1K)§r", "memory_tier": 0 },
-		{ "folder_name": "old_evening_sky", "name": "§r§7§lEvening Dky *Old §8(2K)§r", "memory_tier": 0 },
-		{ "folder_name": "peaceful_day_sky", "name": "§r§7§lPeaceful Day Sky §8(1K)§r", "memory_tier": 0 },
-		{ "folder_name": "sunset_sky", "name": "§r§7§lSunset Sky §8(1K)§r", "memory_tier": 0 }
+		{ "folder_name": "cloudy_evening_sky", "name": "§r§7Cloudy Evening Sky §6(4K)§r", "memory_tier": 1 },
+		{ "folder_name": "black_sky", "name": "§r§7Black Evening Sky §6(4K)§r", "memory_tier": 0 },
+		{ "folder_name": "evening_sky", "name": "§r§7Evening Sky §6(1K)§r", "memory_tier": 0 },
+		{ "folder_name": "old_evening_sky", "name": "§r§7Evening Dky *Old §6(2K)§r", "memory_tier": 0 },
+		{ "folder_name": "day_sky", "name": "§r§7Day Sky §6(4K)§r", "memory_tier": 0 },
+		{ "folder_name": "day_sky_vv", "name": "§r§7VV Day Sky §6(4K HDR)§r", "memory_tier": 0 },
+		{ "folder_name": "sunset_sky", "name": "§r§7Sunset Sky §6(1K)§r", "memory_tier": 0 }
 	],
 	"modules": [
 		{
